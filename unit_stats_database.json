@@ -1,0 +1,4 @@
+Tzaangor_SB_VB = {'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': 1 }
+Tzaangor_SGB = {'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': 2 }
+
+Stormcast_Vindictors_Stats = {'MOVE': 5, 'HEALTH': 2, 'CONTROL': 1, 'SAVE': 3}
