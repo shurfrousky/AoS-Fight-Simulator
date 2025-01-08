@@ -6,7 +6,7 @@ d6 = random.randint(1, 6)
 #Tzaangor Enlightened
 Tzaangor_Enlightened_Stats = {'MOVE': 14, 'HEALTH': 4, 'CONTROL': 1, 'SAVE': 4, 'CHAMP': True, 'BANNER': False, 'MUSIC': False}
 Tzaangor_Enlightened_Spear_VB = {'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': 2 }
-Tzaangor_Enlightened_Disc = {'WPN': "Disc's Teeth and Horns",'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': d3 }
+Tzaangor_Enlightened_Disc = {'WPN': "Disc's Teeth and Horns",'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': "D3" }
 # Tzaangor Skyfires
 Tzaangor_Skyfire_Stats = {'MOVE': 14, 'HEALTH': 4, 'CONTROL': 1, 'SAVE': 4, 'CHAMP': True, 'BANNER': False, 'MUSIC': False}
 Tzaangor_Skyfire_AoF = {'RANGE': 18, 'ATTK': 2, 'HIT': 4, 'WND': 3, 'RND': 1, 'DMG': 1 } #Ranged: Arrow of Fate
